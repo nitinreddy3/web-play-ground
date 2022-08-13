@@ -2,4 +2,13 @@
   "include": [
     "src/**/*"
   ],
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "outDir": "./dist",
+    "target": "ESNext",
+    "noEmit": true
+  }
 }
