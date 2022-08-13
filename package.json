@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nitinreddy3/web-play-ground/issues"
   },
-  "homepage": "https://github.com/nitinreddy3/web-play-ground#readme"
+  "homepage": "https://github.com/nitinreddy3/web-play-ground#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
